@@ -39,6 +39,7 @@ body {
 
 .botao-fechar {
   color: #fff;
+  cursor: pointer;
 }
 
 .botao-abrir {
